@@ -2,7 +2,7 @@
 <p align="center"><b>🌱 Student | Learner | Developer | Designer | Sketcher 🌱</b></p>
 
 <p align="center">👨‍💻 I'm a passionate Designer and a self learned developer 👨‍💻</p>
-<p align="center">👯 I’m looking to collaborate on Hackathons and Open Source Contributions 👯</p>
+<p align="center"> I’m looking to collaborate on Hackathons and Open Source Contributions </p>
 
 <div align="center">
 <img src="https://profile-counter.glitch.me/prabirkr/count.svg?"  />
